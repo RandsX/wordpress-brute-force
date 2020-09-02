@@ -1,4 +1,4 @@
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RandsX&repo=Terkey&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # WordPress Brute Force Login
 
